@@ -1,0 +1,33 @@
+.footer {
+    height: 200px;
+    display: block;  
+}
+
+.imagen-aj {
+    font-size: 40px;
+    height: 50px;
+}
+.contacteme {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.h3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    padding: auto;
+}
+
+.h2 {
+    margin-right: -150px;
+}
+
+.contacto {
+    font-size: 30px;
+}

@@ -8,30 +8,9 @@
 }
 
 body {
-  background: rgb(221, 219, 219);
-  max-width: 1200px;
-  padding: 40px;
-  margin: auto;
+  background: rgb(12, 12, 12);
 }
 
-#btn {
-  padding: 14px 50px;
-  border: none;
-  background: #000;
-  color: white;
-  font-weight: 500;
-  font-size: 16px;
-  cursor: pointer;
-  transition: background, color 300ms;
-}
-
-#btn:hover {
-  background: #69F1A1;
-  color: #000;
-}
-
-/* aca le puse el color de todas las letras*/
-
-h1, h2, p, span {
-  color: black;
+link {
+  text-decoration: none;
 }

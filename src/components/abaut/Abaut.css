@@ -1,0 +1,14 @@
+.abaut {
+    padding: 40px;
+    height: 700px;
+    justify-content: center;
+}
+
+.abaut h2 {
+    font-size: 50px;
+}
+
+.abaut p {
+    font-size: 30px;
+    margin-top: 40px;
+}

@@ -1,0 +1,112 @@
+main {
+    max-width: 1200px;
+    padding: 40px;
+    margin: auto;
+}
+
+.cover {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.text-information-cover {
+    width: 50%;
+}
+
+.text-information-cover span {
+    font-size: 200px;
+}
+
+.text-information-cover h1 {
+    font-size: 80px;
+}
+
+.text-information-cover p {
+    font-size: 18px;
+    margin-top: 40px;
+}
+
+.media-cover {
+    width: 50%;
+}
+
+.media-cover video {
+    width: 100%;
+    margin-top: -40px;
+}
+
+.buttons-cover {
+    margin-top: 40px;
+}
+
+#btn {
+    padding: 14px 50px;
+    border: none;
+    background: white;
+    color: #000;
+    font-weight: 500;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background, color 300ms;
+}
+
+#btn:hover {
+    background: #69F1A1;
+    color: #000;
+}
+
+
+/* sadsdasdasdasd*/
+
+
+.container-banner {
+    margin-top: 80px;
+}
+
+.banner {
+    height: 250px;
+    display: flex;
+    align-items: center;
+    background: #121214;
+    position: relative;
+}
+
+.banner-icon-heart {
+    width: 35%;
+    height: 100%;
+}
+
+.banner-icon-heart img{
+    width: 400px;
+    margin-top: -20px;
+    position: relative;
+    filter: drop-shadow(-40px 0px 30px rgba(0, 0, 0, .5));
+}
+
+.banner-text {
+    width: 60%;
+    position: relative;
+    padding: 40px;
+}
+
+.banner-text h2 {
+    color: white;
+    font-size: 32px;
+    font-weight: 400;
+   
+}
+
+.banner-icon-fire {
+    height: 100%;
+    position: absolute;
+    right: 10px;
+    overflow: hidden;
+}
+
+.banner-icon-fire img {
+    width: 300px;
+    position: relative;
+    margin-top: -100px;
+    opacity: .6;
+}
